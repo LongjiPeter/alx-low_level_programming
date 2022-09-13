@@ -16,11 +16,11 @@ e='e';
 q='q';
 for (start = 'a'; start <= 'z'; start++)
 {
-if (start != 'e' && start! = 'q')
+if (start != 'e' && start != 'q')
 {
 putchar(start);
 }
-printf('\n');
+printf("\n");
 }
 
 return (0);
