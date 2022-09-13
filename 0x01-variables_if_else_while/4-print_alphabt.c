@@ -10,17 +10,17 @@
 
 int main(void)
 {
-char start,e,q;
+char start, e, q;
 
 e='e';
 q='q';
-for (start='a';start<='z';start++)
+for (start = 'a'; start <= 'z'; start++)
 {
-if (start!='e' && start!='q')
+if (start != 'e' && start! = 'q')
 {
 putchar(start);
 }
-putchar('\n');
+printf('\n');
 }
 
 return (0);
