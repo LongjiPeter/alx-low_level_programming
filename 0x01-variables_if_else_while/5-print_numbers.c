@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 /**
  * Desciption: Program prints all single digitsin base ten and then printd a new line
