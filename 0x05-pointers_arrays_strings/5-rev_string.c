@@ -20,6 +20,6 @@ temp = s[a];
 s[a] = s[b];
 s[b] = temp;
 a++;
-b--
+b--;
 }
 }
